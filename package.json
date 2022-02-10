@@ -1,6 +1,6 @@
 {
-  "name": "fundiesjavatemplate",
-  "version": "1.0.0",
+  "name": "fundies2-java-template",
+  "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
   "type": "module",
