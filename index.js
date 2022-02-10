@@ -180,6 +180,6 @@ for (const c of classes) {
   }
   templateStr += "\n*/"
 
-  !fs.existsSync("./out") ? fs.mkdirSync("./out") :
+  !fs.existsSync("./out") ? fs.mkdirSync("./out") : () => {};
   fs.writeFileSync("./out/" + className + ".txt", templateStr);
 }
