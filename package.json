@@ -1,0 +1,11 @@
+{
+  "name": "fundiesjavatemplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "jsdom": "^19.0.0",
+    "node-fetch": "^3.2.0"
+  }
+}
